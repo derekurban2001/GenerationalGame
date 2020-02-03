@@ -1,2 +1,3 @@
 # CPSC233Project
-#This is a fake digimon game
+#This is a fake pokemon game
+#sup boys
