@@ -21,7 +21,16 @@ public class Paddle {
         this.width = width;
         this.velocityY = 0;
     }
-    
+   
+        
+    //draw the paddle
+    public void paint(Graphics g){
+        g.setColor(Color.black);
+        g.fillRect(this.x, this.y, this.length, this.width);//drawing the rectangle
+        g.setColor(Color.white);
+        g.fillRect(this.x, this.y, this.length, 1);
+    }
+
      
     public void change(int yChange){
         this.y += yChange;
@@ -60,13 +69,5 @@ public class Paddle {
         this.velocityY = velY;
     }
     
-    //draw the paddle
-    public void paint(Graphics g){
-        g.setColor(Color.black);
-        g.fillRect(this.x, this.y, this.length, this.width);//drawing the rectangle
-        g.setColor(Color.white);
-        g.fillRect(this.x, this.y, this.length, 1);
-    }
-
 
 }
