@@ -4,6 +4,7 @@ Pong
   To compile the Pong demo, you will need to download three files. The first one is the TextBasedBallFinal.zip which contains
   two different classes(Ball.java and Game.java) and the Paddle.java.
   Run the class Game.java, which will show the pixel movements of the ball.
+  Run the Paddle.java, which will show the pixel movements of the paddle.
   
 Crossy Road
   To compile the CR demo, download 3 files (Player.java, Movement.java, Obstacles.java) contained in the CR branch of Github
