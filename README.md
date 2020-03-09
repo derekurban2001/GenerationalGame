@@ -2,7 +2,7 @@
 Generational Game
 
 
-To Run The Pacman Demo:
+To Run The Pacman Demo:Download the PacmanDemo2.zip package and run the PacmanMainClass.java file in the src folder. This version of the code only takes in user input from a Phidgets VINT Hub, so to control player input ensure you have a Phidgets Controller installed with appropriate buttons/LED's connected to the appropriate hub ports.
 
 
 To Run the Crossy Road Demo:
