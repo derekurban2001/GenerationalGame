@@ -1,4 +1,4 @@
-TextBased Demo 2
+READ ME FOR DEMO 2 CONTAINED IN DEMO 2 BRANCH (TEXT-BASED DEMO 1 BELOW)
 
 Pong: 
   To compile the Pong demo, you will need to download the PongTextBased.zip file. It contains three different classes.
