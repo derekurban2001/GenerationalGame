@@ -12,3 +12,5 @@ they will respawn at the start of the map.
 
 
 To Run The Pong Demo:
+To see the Pong Demo, download the "PongDemo2.zip" file. Run the "Main" class and use the "W" and "Up" keys to 
+control the paddle movements. Each time either key is pressed, the paddle will change directions.
