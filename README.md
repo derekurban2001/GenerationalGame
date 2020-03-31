@@ -1,11 +1,10 @@
 READ ME FOR DEMO 3 CONTAINED IN DEMO3 BRANCH (TEXT-BASED IN DEMO1 BRANCH)
 
 Pong: 
-  To compile the Pong demo, you will need to download the PongTextBased.zip file. It contains three different classes.
-Run the class Game.java, which will allow you to choose between a ball and a paddle demo. The ball demo presents you with the option to see the ball movements, and prints out whenever the ball bounces off the walls/ceiling/floor. The paddle demo gives you the initial   position of the paddle, and allows you to change its position via input.
+  To compile the Pong demo, you will need to download the PONGDemo3.zip file. Extract the file and run the class PongMain.java from the src folder,press the Up arrow key to change directions for the top paddle, press the left arrow key to change directions for the left paddle, press the down arrow key to change directions for the bottom paddle and press the right arrow key to change directions for the right paddle. As of now, the game runs so players are able to play with a negative score, however when all the games are merged, Pong will end as soon as any of the players get a score of 0. The java doc is also available in the doc folder. 
   
 Crossy Road: 
-  To compile the CR demo, download the Frogger zip file and run the CrossyRoadMainClass.java zip. Press the Q key for player 1 to move forward, press the R key for player 2 to move forward, press the U key for player 3 to move forward and press the P key for player 4 to move forard. If they collide with a rectangle, they will respawn at the start of the start of the running map. (For our final video we will have to implement more buses throughout the map, fix our score for players, make the map stop from running, stop the players when they win and also when they reach the end of the map)
+  To compile the CR demo, download the Frogger zip file and run the CrossyRoadMainClass.java zip. Press the Q key for player 1 to move forward, press the R key for player 2 to move forward, press the U key or player 3 to move forward and press the P key for player 4 to move forard. If they collide with a rectangle, they will respawn at the start of the start of the running map. (For our final video we will have to implement more buses throughout the map, fix our score for players, make the map stop from running, stop the players when they win and also when they reach the end of the mapp)
   
 Main Menu / Pacman: 
   To compile the Main Menu or Pacman, download and extract the Menu&Pacman.zip folder. 
