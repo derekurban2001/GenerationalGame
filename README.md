@@ -1,4 +1,4 @@
-READ ME FOR DEMO 3 CONTAINED IN DEMO3 BRANCH (TEXT-BASED IN DEMO1 BRANCH)
+READ ME FOR DEMO 3 CONTAINED IN DEMO3 BRANCH 
 
 Pong: 
   To compile the Pong demo, you will need to download the PONGDemo3.zip file. Extract the file, import all classes from the src folder and run the PongMain class. Press the Up arrow key to change directions for the top paddle, press the left arrow key to change directions for the left paddle, press the down arrow key to change directions for the bottom paddle and press the right arrow key to change directions for the right paddle. As of now, the game runs so players are able to play with a negative score, however when all the games are merged, Pong will end as soon as any of the players get a score of 0. The java doc is also available in the doc folder. 
