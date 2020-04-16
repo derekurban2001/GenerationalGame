@@ -8,12 +8,15 @@ Project Description:
   After each of the minigames, each player will be rewarded points based on their performance, and will be brought back to the screen with the leaderboard and the minigame order. The "How-To-Play" button will be updated for the upcoming minigame, and the players must once again confirm that they are ready by pressing their corresponding button. After each of the minigames is played, the players are given the choice to "Play Again", and if they choose to do so, the minigames will then be placed in a random order again. Note that the players will keep the points from their past games on the leaderboard, and the points from the following games will be added onto their current points. At any point, players can keep pressing the back button until they return to the screen with the "Exit" button if they choose to exit, or they can simply press the red "X" at the top right.
 
 
+
 How to Compile & Run Pixel Party
 
-For IDE's : Simply download and extract the PixelParty.zip folder, then located the PixelParty > src folder and move all packages from within the src folder to the desired location for your IDE Project
+For IDE's : Simply download and extract the PixelParty.zip folder, then locate the PixelParty > src folder and move all packages from within the src folder to the desired location for your IDE Project
 
 For Console : Simple download and extract the PixelParty.zip folder, navigate to the directory of where you extracted and type in the following
+
 cd PixelParty/bin
+
 java pixelpartymenu.MenuMainClass
 
 And thats it!
