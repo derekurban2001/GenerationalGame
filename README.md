@@ -1,7 +1,5 @@
 # PixelParty
-Pixel Party!
-
-Project Description
+Project Description:
 
   The Pixel Party game consists of three different minigames. These minigames are: PacMan, Frogger and Pong. The game is played with four players. The players will receive points after each minigame, which will be tracked using a leaderboard. Frogger and Pong are free-for-all games, meanwhile the players will be in teams of two for PacMan. 
 
