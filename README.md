@@ -11,6 +11,8 @@ Project Description:
 
 How to Compile & Run Pixel Party
 
+Pre Compiled: Download the PixelParty.jar from the github, and simply run the program to play!
+
 For IDE's : Simply download and extract the PixelParty.zip folder, then locate the PixelParty > src folder and move all packages from within the src folder to the desired location for your IDE Project
 
 For Console : Simple download and extract the PixelParty.zip folder, navigate to the directory of where you extracted and type in the following
